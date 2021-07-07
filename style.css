@@ -5,6 +5,7 @@ body{
 .display-flex{
     width: 100%;
     display: flex;
+    margin-bottom: 100px;
 }
 .display h1{
     font-weight: 900;
@@ -40,8 +41,11 @@ body{
 .color{
     color: blue;
 }
-#background{
+.background{
     background-image: url(images/shapes/Frame\ 56.jpg);
     background-repeat: no-repeat;
     background-position: left;
+}
+#text-style{
+    letter-spacing: 1px;
 }

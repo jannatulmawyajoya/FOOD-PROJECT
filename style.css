@@ -59,8 +59,9 @@ body{
 }
 .style-text{
     width: 33.33%;
-    padding: 20px;
-    margin: 30px;   
+    padding-left: 60px;
+    
+    margin: 20px; 
     line-height: .5;
 }
 .style-text h1{
